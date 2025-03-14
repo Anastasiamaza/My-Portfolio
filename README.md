@@ -11,7 +11,7 @@ Welcome to my portfolio repository! Here, you'll find my projects, skills, and e
 - More files to come soon!  
 
 ## 📢 Live Demo  
-You can view my portfolio here: **[Live Website](https://anastasiamaza.github.io/My-Portfolio/)** *(Once GitHub Pages is enabled!)*  
+You can view my portfolio here: **[Live Website](https://github.com/Anastasiamaza/My-Portfolio.git)** *(Once GitHub Pages is enabled!)*  
 
 ## 📬 Connect with Me  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/anastasia-mazaduh-700b141b4)  
