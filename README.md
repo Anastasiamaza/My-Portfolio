@@ -43,8 +43,10 @@ You can view my portfolio here:
 
 📬 Connect with Me
 
-• LinkedIn: https://www.linkedin.com/in/anastasia-mazaduh-700b141b4
+•LinkedIn: https://www.linkedin.com/in/anastasia-mazaduh-700b141b4
 
 • Twitter: @anastasiamaza
+
 • Instagram: @anastasiamaza
+
 • Email: anniemaza67@gmail.com
